@@ -1,1 +1,1 @@
-# MTGSearcherBot
+# MTGSearcherBots
