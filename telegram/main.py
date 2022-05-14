@@ -13,7 +13,7 @@ with open("card_oracle1.json", "r") as read_file:
 with open("card_legalities.json", "r") as read_file:
     data_legalities = json.load(read_file)
 
-API_TOKEN = '2011611526:AAH5yiZF5Ze7CYYZhQUTjRncYeGZC5cq1ps'
+API_TOKEN = 'TOKEN'
 
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger('broadcast')
